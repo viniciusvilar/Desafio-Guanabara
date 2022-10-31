@@ -1,0 +1,30 @@
+Don Vito Corleone
+67
+Michael Corleone
+34
+Bruce Wayne
+30
+Clark Kent
+100
+Harry Potter
+11
+Hermione Granger
+11
+Rony Weasley
+11
+Diana
+143
+Barry Allen
+28
+Neville
+11
+Alfred
+63
+Robin
+9
+Al Pacino
+67
+Robert De Niro
+74
+Tom Hanks
+65

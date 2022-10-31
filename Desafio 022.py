@@ -1,0 +1,7 @@
+nome = input('Digite seu nome: ')
+nome.strip()
+novoNome = nome.split()
+print('Nome maiúsculo: {}'.format(nome.upper()))
+print('Nome minúsculo: {}'.format(nome.lower()))
+print("Quantidade de letras (sem espaços): {}".format(len(nome) - nome.count(' ')))
+print('O primeiro nome tem {} letras'.format(len(novoNome[0])))
